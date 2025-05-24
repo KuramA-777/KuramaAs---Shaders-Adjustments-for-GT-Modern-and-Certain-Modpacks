@@ -26,3 +26,9 @@
 - Photon -> https://imgur.com/a/lrILNM5
 
 - Solas  -> https://imgur.com/a/OuCyzLX
+
+
+
+- A little Warning
+
+  Solas has a bug with Emissive Ores and AE2 Storage Drives, where they flicker intensively while TAA is turned on.
